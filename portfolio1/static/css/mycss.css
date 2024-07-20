@@ -1,0 +1,45 @@
+.blog{
+margin: 5%;
+padding: 2%;
+color: rgb(0, 0, 0);
+
+}
+
+.thumbnail{
+margin: auto;
+margin-top: 2%;
+width: 400px;
+height: 300px;
+
+
+}
+
+.my-position{
+padding: auto;
+margin: auto;
+
+
+
+}
+.mynav{
+
+padding: 5%;
+
+}
+
+.mainbody{
+    margin: 10%;
+    padding: 2%;
+    color: rgb(0, 0, 0);
+    
+}
+
+.blog-image{
+
+height: 55%;
+width : 55%;
+padding-top: 2%;
+padding-bottom: 2%;
+
+
+}
